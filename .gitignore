@@ -1,3 +1,5 @@
+_nav-mapped.yml
+.DS_Store
 obj/
 _ReSharper.*
 out/
@@ -29,8 +31,9 @@ uiDesigner.xml
 *.iml
 grammar.xml
 /build/
-/node_modules/
+node_modules
 pdf/kotlin-docs.pdf
+pdf/kotlin-reference.pdf
 pdf/tmp.html
 *.pyc
 google-credentials.json
@@ -38,7 +41,6 @@ package-lock.json
 .env
 pages/api/
 external/
-pages/docs/reference/native/
-pages/docs/reference/coroutines/
+assets/externals
 pages/docs/tutorials/kotlin-for-py/
 _teamcity
